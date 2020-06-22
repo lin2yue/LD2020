@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>My Sketch Library</title>
-    <description>My Sketch Library</description>
+    <title>Light Design 2020</title>
+    <description>Light Design 2020</description>
     <image>
       <url></url>
       <title>My Sketch Library</title>
@@ -11,7 +11,7 @@
     <item>
       <title>My Sketch Library</title>
       <pubDate>Wed, 23 Jun 2019 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/lin2yue/LD2020/raw/185cc5163b7bf71d12db845885a98db850701235/D20-lib.sketch" type="application/octet-stream" sparkle:version="1"/>" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="http://10.64.40.42/rp/D20/D20-LB.sketch" type="application/octet-stream" sparkle:version="1"/>" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
