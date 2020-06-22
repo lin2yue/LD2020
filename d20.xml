@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Light Design 2020</title>
-    <description>Light Design 2020</description>
+    <description>description</description>
     <image>
       <url></url>
-      <title>Light Design 2020</title>
+      <title>description</title>
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>Light Design 2020</title>
-      <pubDate>Wed, 22 Jun 2020 09:19:04 +0000</pubDate>
-      <enclosure url="http://10.64.40.42/rp/D20/D20-LB.sketch" type="application/octet-stream" sparkle:version="1"/>" type="application/octet-stream" sparkle:version="1"/>
+      <title>description</title>
+      <pubDate>Wed, 22 Jun 2020 10:19:04 +0000</pubDate>
+      <enclosure url="http://10.64.40.42/rp/D20/D20-LB.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
